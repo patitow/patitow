@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patitow
-- 👀 I’m interested in programming for general purposes
+- 👀 I’m interested in programming for game development
 - 👨‍💻 I’m currently learning HTML, CSS and Kotlin for JS
-- 🎮 I’m looking to collaborate on game projects.
+- 🎮 I’m looking to collaborate on game projects
 
 Contact me:<br>
 <a href="https://www.linkedin.com/in/patitow/">→ LinkedIn</a> <br>
