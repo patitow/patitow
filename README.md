@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patitow
-- 👀 I’m interested in programming for game development
+- 👀 I’m interested in programming for general purpose
 - 👨‍💻 I’m currently learning HTML, CSS and Kotlin for JS
 - 🎮 I’m looking to collaborate on game projects
 
