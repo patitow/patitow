@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patitow
 - 👀 I’m interested in programming for general purpose
-- 👨‍💻 I’m currently learning HTML, CSS and Kotlin for JS
+- 👨‍💻 I’m currently learning JS, React and TypeScript
 - 🎮 I’m looking to collaborate on game projects
 
 Contact me:<br>
