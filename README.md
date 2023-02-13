@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Unity Game Development](https://github.com/patitow/PolimonUnity)
 
-- 🌱 I’m currently learning: **React, NodeJS, NextJs and TypeScript**
+- 🌱 I’m currently learning: **ReactJs, React Native, NodeJS, SpringBoot and TypeScript**
 
 - ⚡ Fun fact: **I enjoy playing old style video games and watching old style anime**
 
