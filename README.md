@@ -6,9 +6,9 @@
 
 - 📫 Contact me at **msoliver2002@gmail.com**
 
-- 🔭 I’m currently working on [Unity Game Development](https://github.com/patitow/PolimonUnity)
+- 🔭 I’m currently working on [Spring Boot FullStack Application - E-commerce](https://github.com/patitow/E-commerce_Spring_Boot) and [NodeJs Fullstack Application - Inventory management](https://github.com/patitow/AppControleEstoque)
 
-- 🌱 I’m currently learning: **ReactJs, React Native, NodeJS, SpringBoot and TypeScript**
+- 🌱 I’m currently learning: **ReactJS, NodeJS, SpringBoot and TypeScript**
 
 - ⚡ Fun fact: **I enjoy playing old style video games and watching old style anime**
 
