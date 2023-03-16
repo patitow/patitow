@@ -64,7 +64,7 @@
 ### My Social Media
 <p style="display:flex; justify-content:space-between; width:150px">
 <a href="https://linkedin.com/in/patitow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patitow" height="40" width="40" /></a>
-<a href="https://instagram.com/pa_ti_tow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pa_ti_tow" height="40" width="40" /></a>
+<a href="https://instagram.com/patitow.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pa_ti_tow" height="40" width="40" /></a>
 </p>
 
 ### My Github Stats
