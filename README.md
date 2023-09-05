@@ -70,7 +70,7 @@
 ### My Github Stats
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats-patitow.vercel.app/api/top-langs?username=patitow&show_icons=true&theme=dark&locale=en&layout=compact" alt="patitow" /></p>
+<p><img align="center" src="https://github-readme-stats-k7h4jvtlo-patitow.vercel.app/api/top-langs?username=patitow&show_icons=true&theme=dark&locale=en&layout=compact" alt="patitow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patitow&show_icons=true&theme=dark&locale=en" alt="patitow" /></p>
 
