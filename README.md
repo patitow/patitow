@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Oliveira</h1>
-<h3 align="center" style="padding-bottom:10px;">A proud Computer Engineering Student from University of Pernambuco</h3>
+<h3 align="center" style="padding-bottom:10px;">A prod game and fullstack developper</h3>
 
 
 - 🌍 I'm based in **Recife - Pernambuco**
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Spring Boot FullStack Application - E-commerce](https://github.com/patitow/E-commerce_Spring_Boot) and [NodeJs Fullstack Application - Inventory management](https://github.com/patitow/AppControleEstoque)
 
-- 🌱 I’m currently learning: **ReactJS, NodeJS, SpringBoot and TypeScript**
+- 🌱 I’m currently learning: Godot, Advanced React and NextJs.
 
-- ⚡ Fun fact: **I enjoy playing old style video games and watching old style anime**
+- ⚡ Next steps: Learn Golang and Rust.
 
-- 🎙️ **I speak english since 12 years old**
+  
 
 ### Languages and Tools
 <p style="display:flex; align-items:center; justify-content:space-between;">
