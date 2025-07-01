@@ -4,9 +4,7 @@
 
 - 🌍 I'm based in **Recife - Pernambuco**
 
-- 📫 Contact me at **LinkedIn**
-
-- 🔭 I’m currently working on [Spring Boot FullStack Application - E-commerce](https://github.com/patitow/E-commerce_Spring_Boot) and [NodeJs Fullstack Application - Inventory management](https://github.com/patitow/AppControleEstoque)
+- 📫 Contact me at **[LinkedIn]([https://github.com/patitow/E-commerce_Spring_Boot](https://www.linkedin.com/in/patitow/))**
 
 - 🌱 I’m currently learning: Godot, Advanced React and NextJs.
 
