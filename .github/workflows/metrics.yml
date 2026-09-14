@@ -24,9 +24,9 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_recent_categories: produced, distribution
 
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: detailed
+          # plugin_achievements disabled: its GraphQL query hits GitHub's
+          # deprecated Projects (classic) API and errors out on every run.
+          plugin_achievements: no
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
