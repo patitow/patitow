@@ -1,172 +1,85 @@
-<h1 align="center">Welcome to my Github Page 👋<br>I'm Matheus Souza de Oliveira</h1>
-<h3 align="center">A proud fullstack developer and game dev at the meantime</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **a React Native/NextJs + Gemini with NodeJS + Docker.**
+<img src="assets/hunter.gif" alt="Reploid hunter" width="588"/>
 
-- 🌱 I’m currently learning **AI Integration, Cloud and NextJS (SSR).**
+<h1>Matheus Souza de Oliveira</h1>
 
-- 💬 Ask me about **React, Godot, Blender, and much more.**
+<a href="https://linkedin.com/in/patitow">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+LLM-powered+data+platforms+in+Python;RAG+pipelines+%26+multi-model+LLM+fallback+on+AWS;Fullstack+with+React+%2F+Next.js+on+the+side;Godot+%26+Blender+for+fun+on+weekends&font=Fira+Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=20&pause=1500" alt="Typing SVG" />
+</a>
 
-- 📫 Contact me at **LinkedIn**
+<sub>(Animation made by Nico Pardo, obtained from <a href="https://nicopardo.itch.io/x-reploit-pack">itch.io</a>, under the free tier's non-commercial license.)</sub>
 
-- ⚡ Next Steps **Learn Golang and Rust.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+## 🤖 About Me
+
+- 🧠 **AI Engineer** by trade — I design and ship **LLM-powered data platforms** in **Python**: RAG pipelines, multi-model fallback (OpenAI → Anthropic → Gemini), and skill/taxonomy extraction running on **AWS Lambda/ECS + PostgreSQL**.
+- 🔭 Alongside that, I build **fullstack products** with **React / Next.js** and keep a foot in **game dev** with **Godot** and **Blender**.
+- 🌱 Currently deepening agentic workflows, embeddings, and cloud infra on **AWS**.
+- 💬 Ask me about **LLM integration, RAG, Python, AWS, React, Godot, or Blender**.
+- ⚡ Next up: **Golang and Rust**.
+
+<br/>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/patitow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/patitow" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
+
+<br/>
+
+## 🧰 Tech Stack
+
+**AI / Data & Cloud** — *main focus*
+
 <p align="left">
-<a href="https://linkedin.com/in/patitow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patitow" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,aws,azure,postgres,redis,docker&theme=dark" alt="AI/Data/Cloud stack"/>
 </p>
 
-<!-- ▬▬▬▬▬▬▬▬▬▬▬▬ LANGUAGES & TOOLS ▬▬▬▬▬▬▬▬▬▬▬▬ -->
-<h3 align="left">Tech Stack · Languages & Tools</h3>
-
-<!-- ① Front‑End -->
-<h4>Front‑End</h4>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/>
-  </a>
+  <a href="https://openai.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/></a>
+  <a href="https://www.anthropic.com" target="_blank"><img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/></a>
 </p>
 
-<!-- ② Back‑End / DevOps -->
-<h4>Back‑End & DevOps</h4>
+**Fullstack**
+
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb&theme=dark" alt="Fullstack stack"/>
 </p>
 
-<!-- ③ Cloud & CI/CD -->
-<h4>Cloud & CI/CD</h4>
+**Game Dev & Design**
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=godot,blender,figma&theme=dark" alt="Game dev & design stack"/>
 </p>
 
-<!-- ④ AI & Data Science -->
-<h4>AI & Data Science</h4>
+**Languages**
+
 <p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit‑learn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cs&theme=dark" alt="Languages"/>
 </p>
 
-<!-- ⑤ Languages -->
-<h4>Programming Languages</h4>
-<p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-</p>
+<br/>
 
-<!-- ⑥ Design & Other -->
-<h4>Game Engine, 3D Modeling & Design</h4>
-<p align="left">
-   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
-<!-- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ -->
+## 📊 GitHub Stats
 
-<h3 align="left">Automated Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patitow&show_icons=true&locale=en&layout=compact" alt="patitow" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patitow&show_icons=true&locale=en" alt="patitow" /></p>
+<img src="metrics.svg" alt="patitow's GitHub metrics: stats, languages, achievements, activity calendar"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patitow&" alt="patitow" /></p>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=patitow&style=for-the-badge&color=00c6ff&label=Profile+Views" alt="Profile views"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>

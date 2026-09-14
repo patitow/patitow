@@ -1,0 +1,32 @@
+name: Metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: patitow
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_categories: produced, distribution
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
